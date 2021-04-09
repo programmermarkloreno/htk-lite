@@ -40,9 +40,9 @@ def install():
 	os.system("apt install neofetch -y")
 	os.system("apt install cupp -y")
 	os.system("gem install lolcat")
-	print "\n"
-	print """entering big download region prepare you anus
-	if your not ready press ctrl C """
+	print ("\n")
+	print (""entering big download region prepare you anus
+	if your not ready press ctrl C"")
 	i = raw_input("press ctrl c to stop hit enter to continue")
 	os.system("apt install metasploit-framework -y")
 	os.system("apt install reaver -y")
